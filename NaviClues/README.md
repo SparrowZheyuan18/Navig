@@ -1,0 +1,1 @@
+The dataset photos can only be downloaded via the gsv api as it is not possible to violate the google street view protocol, and we have provided latitude and longitude coordinates in the data.
