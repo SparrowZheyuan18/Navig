@@ -1,6 +1,6 @@
 # Navig_2025
 
-## preliminary
+## Preliminary
 - torch: 2.2.2, CUDA: 11.8, python: 3.10.14
 - Creat the environment according to environment.txt
 - Download [GroundingDINO](XXXX) to the project root directory. 
