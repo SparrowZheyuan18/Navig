@@ -3,8 +3,8 @@
 ## Preliminary
 - torch: 2.2.2, CUDA: 11.8, python: 3.10.14
 - Creat the environment according to environment.txt
-- Download [GroundingDINO](XXXX) to the project root directory. 
-- VLMs weight: The weight files are in [link](XXXX), download them and replace 'vlms/*/checkpoint-534' folder. The model file can download from huggingface soon.
+- Download [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) to the project root directory. 
+- VLMs weight: The weight files are in [link](https://huggingface.co/huggingCode11/NAVIG), download them and replace 'vlms/*/checkpoint-534' folder. The model file can download from huggingface soon.
 
 
 
