@@ -1,5 +1,7 @@
 # Navig_2025
 
+Also check our [paper list](https://github.com/SparrowZheyuan18/Awesome-Geolocalization) to get a sense of the Image Geo-localization task :)
+
 ## Preliminary
 - torch: 2.2.2, CUDA: 11.8, python: 3.10.14
 - Creat the environment according to environment.txt
